@@ -1,7 +1,8 @@
 #Description
 This is a simple script that uses heuristics and Chinese frequency data distributions to guess the text encoding and script (Simplified or Traditional) of any piece of Chinese text.
 
-It's been accurate on everything I've thrown at it so far, but 
+It's been accurate on everything I've thrown at it so far, but YMMV.
+
 ## Usage
     
     $ perl guess_encoding.pl whatami.txt
